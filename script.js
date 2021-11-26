@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Oniichan', '2 Phut Hon', 'Hikaru Nara', 'tokyo ghoul'];
+const songs = ['Sad Girlz Luv Money', '2 Phut Hon', 'Hikaru Nara', 'tokyo ghoul'];
 
 // Keep track of song
 let songIndex = 2;
